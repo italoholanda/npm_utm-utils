@@ -1,6 +1,6 @@
 {
   "name": "utm-js-utils",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A simple library to manipulate \"UTM's\" in your JavaScript project",
   "main": "UtmUtils.js",
   "repository": {
