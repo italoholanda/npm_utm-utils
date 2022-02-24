@@ -5,7 +5,7 @@
 ## About the package:
 This package consists of a JavaScript library to get and manipulate the UTM's in your Front-End Project. That's very useful when you want to track the traffic origin from your website.
 
-## Wich UTM's this support?
+## Which UTMs are supported?
 - utm_source
 - utm_id
 - utm_campaign
