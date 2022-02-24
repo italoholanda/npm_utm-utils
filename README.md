@@ -1,6 +1,6 @@
-# npm_utm-utils
+# utm-js-utils
 
-*UTM Utils - A Simple Way to Handle Your UTM's*
+*UTM JS Utils - A Simple Way to Handle Your UTM's*
 
 ## About the package:
 This package consists of a JavaScript library to get and manipulate the UTM's in your Front-End Project. That's very useful when you want to track the traffic origin from your website.
@@ -23,3 +23,15 @@ This package consists of a JavaScript library to get and manipulate the UTM's in
 - use `someUtmExists()` to verify if some UTM exists on your actual URL
 - use `setLocalStorageUtm(utmObject)` to save an UTM object in the localStorage
 - use `getLocalStorageUtm()` to get the UTM's saved in your localStorage
+
+## Example:
+
+```
+import { getUtm } from "../../functions/UtmUtils"
+
+const utmObject = getUtm();
+```
+
+> npm page: https://www.npmjs.com/package/utm-js-utils
+> github page: https://github.com/italoholanda/npm_utm-utils
+
