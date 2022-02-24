@@ -27,7 +27,7 @@ This package consists of a JavaScript library to get and manipulate the UTM's in
 ## Example:
 
 ```
-import { getUtm } from "../../functions/UtmUtils"
+import { getUtm } from "utm-js-utils"
 
 const utmObject = getUtm();
 ```
